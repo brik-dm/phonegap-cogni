@@ -1,0 +1,18 @@
+/* FOUNDATION
+* ------------------------------------------------------------------------ */
+body {position: relative;padding-top: 40px;}
+section {padding-top: 60px;}
+/* REUSABLE STYLES
+* ------------------------------------------------------------------------ */
+.thumbnail.pull-left{margin-right:10px;margin-bottom: 5px;}
+/* HEADER
+* ------------------------------------------------------------------------ */
+.jumbotron {padding: 40px 0;position: relative;background:#777;}
+.jumbotron h1 {font-size: 81px;font-weight: bold;letter-spacing: -1px;line-height: 1;margin-bottom: 9px;color:#fff;}
+.jumbotron p{color:#fff;margin-right:10px;}
+.jumbotron .progress{width:400px;}
+.subhead h1 {font-size: 54px;}
+/* PROFILE
+* ------------------------------------------------------------------------ */
+#profile-widget{margin-top: -10px;}
+#profile-widget.affix{top:70px;}
