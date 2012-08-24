@@ -5,6 +5,10 @@ section {padding-top: 60px;}
 /* REUSABLE STYLES
 * ------------------------------------------------------------------------ */
 .thumbnail.pull-left{margin-right:10px;margin-bottom: 5px;}
+
+/* NAV
+* ------------------------------------------------------------------------ */
+.nav-collapse{-webkit-transform: translateZ(0);}
 /* HEADER
 * ------------------------------------------------------------------------ */
 .jumbotron {padding: 40px 0;position: relative;background:#777;}
